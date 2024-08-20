@@ -7,3 +7,8 @@ print("a =>", a)
 print("b =>", b)
 print("c =>", c)
 print("d =>", d)
+
+
+print("a =>", a)
+print("b =>", b)
+print("c =>", c)
